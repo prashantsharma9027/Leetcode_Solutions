@@ -9,7 +9,33 @@
 class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
-        ok ji
+
+        sort(points.begin(),points.end());
+
+        int count = 1;
+
+        int endpoint = INT_MAX;
+
+        for(auto p : points)
+        {
+            int start = p[0];
+            int end = p[1];
+
+            if(start>endpoint)
+            {
+                count++;
+                endpoint = end;
+                
+
+            }
+            else
+            {
+                endpoint = min(endpoint , end);
+            }
+        }
+
+        return count;
+        
     }
 };
 // @lc code=end
