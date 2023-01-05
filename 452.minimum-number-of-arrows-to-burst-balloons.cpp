@@ -25,7 +25,7 @@ public:
             {
                 count++;
                 endpoint = end;
-                
+
 
             }
             else
