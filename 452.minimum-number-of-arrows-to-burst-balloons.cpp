@@ -9,7 +9,7 @@
 class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
-        abhi kara hai
+        ok ji
     }
 };
 // @lc code=end
