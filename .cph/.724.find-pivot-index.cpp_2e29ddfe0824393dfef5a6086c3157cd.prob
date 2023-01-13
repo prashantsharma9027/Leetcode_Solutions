@@ -1,0 +1,1 @@
+{"name":"Local: 724","url":"d:\\leetcode\\724.find-pivot-index.cpp","tests":[{"id":1673630164943,"input":"[1,2,3]","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\leetcode\\724.find-pivot-index.cpp","group":"local","local":true}
