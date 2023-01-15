@@ -6,7 +6,7 @@
  */
 
 // @lc code=start
-class Solution {
+class2421 Solution {
 public:
     bool isSubsequence(string s, string t) {
 
