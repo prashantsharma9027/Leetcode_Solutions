@@ -31,6 +31,6 @@ public:
         }
         return res;
     }
-};
+};332
 // @lc code=end
 
