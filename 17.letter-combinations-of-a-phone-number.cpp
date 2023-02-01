@@ -23,7 +23,7 @@ private:
             {
                 output.push_back(value[i]);
                 solve(digits, ans , output , index+1, mapping);
-                output.pop_back();
+                 output.pop_back();
             }
         }    
 
