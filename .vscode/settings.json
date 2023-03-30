@@ -3,6 +3,12 @@
         "algorithm": "cpp",
         "forward_list": "cpp",
         "list": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "stack": "cpp"
     }
 }
