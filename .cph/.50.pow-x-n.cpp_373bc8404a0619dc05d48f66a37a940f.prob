@@ -1,1 +1,0 @@
-{"name":"Local: 50","url":"d:\\leetcode\\50.pow-x-n.cpp","tests":[{"id":1673628284083,"input":"[2, 7, 11, 15] 9","output":"[0, 1]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\leetcode\\50.pow-x-n.cpp","group":"local","local":true}

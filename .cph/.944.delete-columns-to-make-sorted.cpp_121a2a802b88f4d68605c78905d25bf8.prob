@@ -1,1 +1,0 @@
-{"name":"Local: 944","url":"d:\\leetcode\\944.delete-columns-to-make-sorted.cpp","tests":[{"id":1672721338581,"input":"strs = [\"zyx\",\"wvu\",\"tsr\"]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\leetcode\\944.delete-columns-to-make-sorted.cpp","group":"local","local":true}
