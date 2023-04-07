@@ -5,7 +5,7 @@
  * [100] Same Tree
  */
 
-// @lc code=start
+// @lc code=start 
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
