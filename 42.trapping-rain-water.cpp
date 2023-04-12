@@ -7,7 +7,7 @@
 
 // @lc code=start
 class Solution {
-public:
+public: 
     int trap(vector<int>& height) {
 
         int sum = 0;
