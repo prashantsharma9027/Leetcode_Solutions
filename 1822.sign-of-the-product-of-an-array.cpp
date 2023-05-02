@@ -8,13 +8,14 @@
 class Solution {
 public:
     int arraySign(vector<int>& nums) {
-        int cnt = 0;
+        int count = 0;
         for(int i = 0; i < nums.size(); i++) 
         {
             if(nums[i] == 0) return 0;
-            if(nums[i] < 0) cnt++;
+            if(nums[i] < 0) count++;
         }
-        return cnt%2 ? -1 : 1;
+        if(count%2 == 0) return 1;
+        return -1;
     }
 };
 // @lc code=end
