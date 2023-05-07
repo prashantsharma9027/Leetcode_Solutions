@@ -15,7 +15,7 @@ public:
                 
         sort(begin(nums), end(nums));
         
-        while (l <= r) {
+        while (l <=  r) {
             if (nums[l] + nums[r] > target) {
                 r--;
             } else {
