@@ -24,7 +24,7 @@ public:
             int val=minHeap.top();
             maxHeap.push(val);
             minHeap.pop();
-        }
+        } 
         else if(maxHeap.size()>minHeap.size()+1)
         {
             int val=maxHeap.top();
