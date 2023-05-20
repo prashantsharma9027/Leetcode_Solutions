@@ -9,7 +9,7 @@ class Fancy {
 public:
     Fancy() {
         
-    }
+    } 
     
     void append(int val) {
         
