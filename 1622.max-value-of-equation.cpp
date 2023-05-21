@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Fancy {
-public:
+public: 
     Fancy() {
         
     } 
