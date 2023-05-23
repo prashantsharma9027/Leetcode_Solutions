@@ -41,7 +41,7 @@ public:
         // }
         
         // priority_queue<pair<int,int>> m;
-        // for( auto i : mp)
+        // for( aut o i : mp)
         // {
         //     m.push(make_pair( i.second, i.first));
         // }
