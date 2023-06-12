@@ -16,7 +16,7 @@ public:
             }
         }
         
-        return letters[0];
+        return letters[0]; 
 
 
         // int left = 0;
