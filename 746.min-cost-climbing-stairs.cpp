@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public: 
+public:  
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
         int prev1 = cost[0];
