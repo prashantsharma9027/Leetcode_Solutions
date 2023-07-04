@@ -9,7 +9,7 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int remgas = 0;
+        int remgas = 0; 
         int startIndex =0;
 
         int sum1=0;
