@@ -7,6 +7,7 @@
 // @lc code=start
 class Solution {
 public:
+
     int bestTeamScore(vector<int>& scores, vector<int>& ages) {
         vector<tuple<int,int>> items;
         for (int i = 0; i < size(scores); ++i) items.push_back({scores[i], ages[i]});
