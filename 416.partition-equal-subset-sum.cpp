@@ -36,6 +36,7 @@ bool solve(vector<int>&nums , int sum)
             }
         }
     }
+    
     return t[n][sum];
 }
 public:
