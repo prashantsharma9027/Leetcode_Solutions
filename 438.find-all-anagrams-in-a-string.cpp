@@ -10,6 +10,9 @@ public:
     vector<int> findAnagrams(string s, string p) {
         int s_len = s.length();
         int p_len = p.length();
+
+
+        
         
         if(s.size() < p.size()) return {};
         
