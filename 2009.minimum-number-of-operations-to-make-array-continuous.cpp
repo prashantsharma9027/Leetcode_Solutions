@@ -21,6 +21,7 @@ public:
         
         for(int i = 0; i<temp.size(); i++) {
             
+            
             int left_range  = temp[i];
             int right_range = left_range + n - 1;
             
