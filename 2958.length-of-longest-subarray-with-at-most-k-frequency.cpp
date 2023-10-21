@@ -23,7 +23,6 @@ public:
             }
             cnt = max(cnt, r - l);
         }
-
         return cnt;
     }
 };
