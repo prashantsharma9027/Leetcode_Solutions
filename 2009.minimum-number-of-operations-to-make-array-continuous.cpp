@@ -14,8 +14,7 @@ public:
         
         vector<int> temp(begin(st), end(st));
         
-        i
-        nt result = INT_MAX;
+        int result = INT_MAX;
         
         
         
