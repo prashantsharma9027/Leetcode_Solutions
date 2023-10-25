@@ -15,11 +15,7 @@ public:
         vector<int> temp(begin(st), end(st));
         
         int result = INT_MAX;
-        
-        
-        
-        
-        
+    
         
         for(int i = 0; i<temp.size(); i++) {
             
