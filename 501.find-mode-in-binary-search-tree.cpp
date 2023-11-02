@@ -32,6 +32,7 @@ public:
         }
         if (freq>maxFreq) {
             maxFreq=freq;
+            
             ans={Node->val};
         } 
         else if (freq==maxFreq) 
