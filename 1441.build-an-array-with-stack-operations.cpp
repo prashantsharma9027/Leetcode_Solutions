@@ -10,6 +10,7 @@ public:
     vector<string> buildArray(vector<int>& target, int n) {
         vector<string> operations;
         
+        
         int targetIndex = 0;
         
         for (int i = 1; i <= n; i++) 
