@@ -24,6 +24,7 @@ public:
                 operations.push_back("Push");
                 targetIndex++;
                 
+                
             } 
             else 
             
