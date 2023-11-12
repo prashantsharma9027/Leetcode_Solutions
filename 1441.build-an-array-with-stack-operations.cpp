@@ -32,6 +32,7 @@ public:
                 operations.push_back("Push");
                 operations.push_back("Pop");
             }
+            
         }
         
         
