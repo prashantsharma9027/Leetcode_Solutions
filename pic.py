@@ -13,6 +13,7 @@ class sketch_from_svg:
         self.scale = scale
 
 
+
     def hex_to_rgb(self,string):
         strlen = len(string)
         if string.startswith('#'):
