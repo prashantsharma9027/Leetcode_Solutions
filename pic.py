@@ -1,4 +1,4 @@
-
+ 
 import cv2
 from svgpathtools import svg2paths2
 from svg.path import parse_path
