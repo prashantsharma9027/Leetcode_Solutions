@@ -5,7 +5,8 @@
  */
 
 // @lc code=start
-class Solution {
+
+class Solution { 
 public:
     string removeStars(string s) {
         stack<char> st;
@@ -17,6 +18,8 @@ public:
                 st.push(c);
             }
         }
+
+        
 
         string ans = "";
         while (!st.empty()) {

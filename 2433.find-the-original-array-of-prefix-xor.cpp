@@ -9,7 +9,7 @@ class Solution {
 public:
     vector<int> findArray(vector<int>& pref) {
         vector<int>temp;
-
+  
         temp.push_back(pref[0]);
         for(int i = 1 ; i<pref.size();i++)
         {
