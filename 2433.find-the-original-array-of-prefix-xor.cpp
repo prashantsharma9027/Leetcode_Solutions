@@ -7,6 +7,7 @@
 // @lc code=start
 class Solution {
 
+
     
 public:
     vector<int> findArray(vector<int>& pref) {
