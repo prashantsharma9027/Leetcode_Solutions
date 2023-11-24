@@ -23,9 +23,10 @@ public:
             }
             cnt = max(cnt, r - l);
         }
-        
+
         return cnt;
     }
 };
+
 // @lc code=end
 
