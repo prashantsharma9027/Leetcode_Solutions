@@ -11,7 +11,7 @@ public:
         unordered_map<int, int> mp;
         int n = nums.size();
         int l = 0, r = 0, cnt {};
-        
+
         
         while(r < n)
         {
@@ -23,6 +23,7 @@ public:
             }
             cnt = max(cnt, r - l);
         }
+        
         return cnt;
     }
 };
