@@ -12,6 +12,7 @@
         "stack": "cpp",
         "initializer_list": "cpp",
         "type_traits": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "xlocinfo": "cpp"
     }
 }
