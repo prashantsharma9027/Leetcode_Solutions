@@ -23,6 +23,7 @@ public:
         st.insert('u');
 
 
+
         int vowelsCount = 0;
         int midIndex = s.length() / 2;
 
