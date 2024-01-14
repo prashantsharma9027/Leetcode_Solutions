@@ -35,6 +35,7 @@ public:
             if (st.count(charB)) vowelsCount--;
         }
 
+
         return vowelsCount == 0;
     }
 };

@@ -13,6 +13,7 @@
         "initializer_list": "cpp",
         "type_traits": "cpp",
         "xutility": "cpp",
-        "xlocinfo": "cpp"
+        "xlocinfo": "cpp",
+        "xlocale": "cpp"
     }
 }
