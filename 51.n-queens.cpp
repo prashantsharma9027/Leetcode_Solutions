@@ -6,6 +6,7 @@
 
 // @lc code=start
 
+
 class Solution {
 private:
     bool isSafe(int row, int col, vector<vector<int>> &board, int n){
