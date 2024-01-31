@@ -14,7 +14,6 @@ public:
         return LCS(text2, text1);
     }
     
-
     int LCS(string s1, string s2) {
         vector<vector<int>> M(2, vector<int>(s1.length() + 1, 0));
 
