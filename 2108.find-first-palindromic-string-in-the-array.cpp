@@ -10,6 +10,7 @@ public:
 
     string firstPalindrome(vector<string>& words) {
 
+
         string ans = "";
         for(auto i : words)
         {
