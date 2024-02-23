@@ -38,6 +38,7 @@ public:
             adj[e[0]].push_back(e[1]);
             cost[e[0]][e[1]] = e[2];
         }
+        
 
         int ans = dfs(src, k + 1, dst, cost, adj);
         return ans == inf ? -1 : ans;
