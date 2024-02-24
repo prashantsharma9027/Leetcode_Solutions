@@ -7,6 +7,7 @@
 // @lc code=start
 class Solution {
 public:
+
     int numRescueBoats(vector<int>& people, int limit) {
         int count = 0;
 
