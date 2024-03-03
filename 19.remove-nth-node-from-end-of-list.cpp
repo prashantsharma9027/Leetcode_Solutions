@@ -36,6 +36,7 @@ public:
         
         temp = head;
         
+        
         while(count<=pos)
         {
             temp = temp->next;
