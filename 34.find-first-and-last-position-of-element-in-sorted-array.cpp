@@ -23,6 +23,7 @@ public:
                 h=mid-1;
             }
         }
+        
         return ans;
     }
     int rightmost(vector<int>& arr, int n, int k) {
