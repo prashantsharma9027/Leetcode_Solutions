@@ -21,6 +21,7 @@ public:
     ListNode* middleNode(ListNode* head) {
         ListNode * slow = head;
         ListNode * fast = head->next;
+        
 
         while(fast!=NULL)
         {
