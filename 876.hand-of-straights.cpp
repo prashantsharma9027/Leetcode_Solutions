@@ -23,6 +23,7 @@ public:
         ListNode * fast = head->next;
         
 
+
         while(fast!=NULL)
         {
             fast = fast->next;
