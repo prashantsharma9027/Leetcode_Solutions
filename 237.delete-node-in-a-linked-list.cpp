@@ -1,4 +1,4 @@
-#include<bits/stdc++>
+ #include<bits/stdc++>
 /*
  * @lc app=leetcode id=237 lang=cpp
  *
