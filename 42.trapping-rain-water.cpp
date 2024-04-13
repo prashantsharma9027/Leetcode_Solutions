@@ -42,6 +42,7 @@ public:
             }
             if(s.empty() || height[i]>s.top())
             s.push(height[i]);
+
             
         }
 
