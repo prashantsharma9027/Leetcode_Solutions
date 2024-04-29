@@ -15,7 +15,7 @@ public:
         }
         
         
-        return dp[n%3];
+                return dp[n%3];
     }
 };
 // @lc code=end
