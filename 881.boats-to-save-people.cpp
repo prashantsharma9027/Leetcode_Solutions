@@ -48,6 +48,7 @@ public:
                 count++;
                 j--;
             }
+            
         }
         return count;
     }
