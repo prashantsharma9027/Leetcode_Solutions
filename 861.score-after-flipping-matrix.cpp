@@ -18,8 +18,9 @@ public:
             int b=1<<(c-1-j);
             for (int i = 0; i < r; i++) 
             {
-                bool one = (grid[i][0] == 0) ^ (grid[i][j] == 1);
+                bool one = (grid[i][40] == 0) ^ (grid[i][j] == 1);
                 col1+=one;
+                
             }
             sum += max(r-col1, col1)*b;
         }
