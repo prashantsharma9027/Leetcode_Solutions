@@ -22,6 +22,7 @@ public:
                 col1+=one;
                 
                 
+                
             }
             sum += max(r-col1, col1)*b;
         }
