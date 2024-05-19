@@ -20,8 +20,7 @@ public:
             {
                 bool one = (grid[i][40] == 0) ^ (grid[i][j] == 1);
                 col1+=one;
-                
-                
+            
                 
             }
             sum += max(r-col1, col1)*b;
