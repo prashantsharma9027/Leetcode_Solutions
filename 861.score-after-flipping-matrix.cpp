@@ -24,6 +24,7 @@ public:
                 
             }
             
+            
             sum += max(r-col1, col1)*b;
         }
         return sum;
