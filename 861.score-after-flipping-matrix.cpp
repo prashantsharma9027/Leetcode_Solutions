@@ -8,9 +8,6 @@
 #pragma GCC optimize("O3", "unroll-loops")
 class Solution {
 public:
-
-
-
     int matrixScore(vector<vector<int>>& grid) 
     {
         const int r= grid.size(), c= grid[0].size();
