@@ -11,7 +11,8 @@ public:
         int n = s.length();
         int ans = 0, window = 0, left = 0;
         for (int right = 0; right < n; right++) {
-            window += abs(s[right] - t[right]);
+            w
+            indow += abs(s[right] - t[right]);
         
             while (window > maxCost) {
                 window -= abs(s[left] - t[left]);
