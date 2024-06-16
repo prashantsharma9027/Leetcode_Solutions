@@ -12,7 +12,9 @@ public:
         int ans = 0, window = 0, left = 0;
        \ for (int right = 0; right < n; right++) {
               
-              
+       
+        
+
             indow += abs(s[right] - t[right]);
         
             while (window > maxCost) {
