@@ -13,6 +13,7 @@ public:
        \ for (int right = 0; right < n; right++) {
               
        
+       
         
 
             indow += abs(s[right] - t[right]);
